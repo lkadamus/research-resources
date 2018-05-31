@@ -1,5 +1,6 @@
 # Usability Plan Template
 **Session dates:**
+
 **Facilitators:**
 
 ## Introduction
@@ -29,8 +30,10 @@ Let me know if you have any questions. Thank you!
 
 ### Tracking participants
 *Track participants as you reach out to them, I do it in a spreadsheet:*
+
+
 | Name | Email / contact info | Location | Status  | Consent form |
-| ----- |-----| -----|-----|-----|
+| ----- | ----- | ----- | ----- | ----- |
 | Laura | laura@test.com | NYC | Scheduled for 05/25 | Received |
 
 ## Conducting the usability session
@@ -39,11 +42,13 @@ Y = complete without help
 X = could not complete this step
 
 Blank sections were not tested, either because there was not time or the participant did not get to that test because of an earlier failure
+
 | Task description | P1 | P2 | P3  | P4 | P5 | Comments and suggestions
-| ----- |-----| -----|-----|-----|-----|-----|
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Task 1 | Y | N | Y | Y | N | Note what worked well and what didn't, suggest plain language, and include quotes from participants |
 | Task 2 | 
 | Task 3 | 
+
 
 ### Script
 #### Introduction
